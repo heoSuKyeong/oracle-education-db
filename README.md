@@ -9,6 +9,10 @@
 - 프로젝트 기간: 2023년 09월 11일 ~ 2023년 09월 18일
 - 기획의도 : 학원의 효율적인 운영을 위해 관리자, 교사, 교육생의 모든 업무와 정보를 통합 관리할 수 있는 데이터베이스 시스템을 구현한다.
 - 멤버: 박나래, 이승원, 이연섭, 차민재, 최진희, 허수경 (6명)
+- 사용 툴 : SQL Developer, DBeaver, eXERD, Draw.io
+- 요약본 문서 : https://drive.google.com/file/d/15SYQ1wJuvrdzdwrH7KMzp6uDd5SnGixS/view?usp=sharing
+- 발표자료 : https://drive.google.com/file/d/1RFw_gS_7Uzs-W8dHEhW1j79Jt3AFw7HI/view?usp=sharing
+
 
 ---
 
